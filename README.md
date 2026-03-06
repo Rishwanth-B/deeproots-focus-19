@@ -1,4 +1,4 @@
-# Team A;goRhythms
+# Team AlgoRhythms
 
 ## Project info
 
