@@ -8,14 +8,14 @@ const plans = [
     name: "Free",
     price: "₹0",
     period: "/forever",
-    features: ["3 rooms/day", "Basic stats", "5 tree species", "Standard timer"],
+    features: ["3 Targets/day", "Basic stats", "5 tree species", "Standard timer"],
     current: true,
   },
   {
     name: "Pro",
     price: "₹199",
     period: "/month",
-    features: ["Unlimited rooms", "Full analytics", "All tree species", "AI task suggestions", "Priority support", "Custom room themes"],
+    features: ["Unlimited targets", "Full analytics", "All tree species", "AI task suggestions", "Priority support", "Custom room themes"],
     popular: true,
   },
   {
