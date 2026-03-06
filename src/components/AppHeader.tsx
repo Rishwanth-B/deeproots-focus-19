@@ -2,11 +2,15 @@ import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import { TreePine, Flame, BarChart3, Map, User, DoorOpen } from "lucide-react";
 
+import { TreePine, Flame, BarChart3, Map, User, DoorOpen, Trophy, Crown } from "lucide-react";
+
 const navItems = [
-  { to: "/rooms", icon: DoorOpen, label: "Virtual Rooms" },
+  { to: "/rooms", icon: DoorOpen, label: "Rooms" },
   { to: "/stats", icon: BarChart3, label: "Stats" },
-  { to: "/forest", icon: TreePine, label: "Focus Forest" },
+  { to: "/forest", icon: TreePine, label: "Forest" },
   { to: "/roadmap", icon: Map, label: "Roadmap" },
+  { to: "/rewards", icon: Trophy, label: "Rewards" },
+  { to: "/premium", icon: Crown, label: "Premium" },
 ];
 
 const AppHeader = () => {
