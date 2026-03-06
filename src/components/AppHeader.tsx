@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { TreePine, Flame, BarChart3, Map, User, DoorOpen } from "lucide-react";
+import { TreePine, Flame, BarChart3, Map, User, DoorOpen, Trophy, Crown } from "lucide-react";
 
 import { TreePine, Flame, BarChart3, Map, User, DoorOpen, Trophy, Crown } from "lucide-react";
 
